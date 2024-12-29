@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Anmol**, a second-year Computer Science Engineering student at Chitkara University with a passion for web development, IoT, and creative problem-solving. 🚀
+I’m **Anmol**, a second-year Computer Science Engineering student at Chitkara University with a passion for web development, and creative problem-solving. 🚀
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on: Developing dynamic and responsive websites using Node.js, React, and Express to deliver seamless user experiences.
@@ -18,6 +18,5 @@ I’m **Anmol**, a second-year Computer Science Engineering student at Chitkara 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol283&layout=compact&theme=radical)
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/Anmol283)  
-[![Email](https://img.shields.io/badge/-Email-EA4335)](mailto:295anmol@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/Anmol283)  [![Email](https://img.shields.io/badge/-Email-EA4335)](mailto:295anmol@gmail.com)  
 
