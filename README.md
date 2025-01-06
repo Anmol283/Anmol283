@@ -46,6 +46,14 @@
 
 
 <hr/>
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.vercel.app/?user=Anmol283&theme=radical" alt="GitHub Streak" width="47%" height="200" />
+  
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol283&layout=compact&theme=radical" alt="Top Languages" width="47%" height="200" />
+</div>
 
 <h2>🏆 LeetCode</h2>
 <div align="center">
@@ -56,12 +64,7 @@
   <img src="https://leetcard.jacoblin.cool/Anmol_283" alt="LeetCode Stats" />
 </div>
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol283&theme=radical" alt="GitHub Streak" width="47%" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol283&layout=compact&theme=radical" alt="Top Languages" width="47%" height="200" />
-<img src="https://komarev.com/ghpvc/?username=Anmol283&color=blue" alt="Visitor Count" />
-</div>
+
 
 <hr/>
 <h2>🤝 Connect With Me</h2>
