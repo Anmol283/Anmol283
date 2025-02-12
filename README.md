@@ -4,7 +4,7 @@
   </h1>
   <h2>👨‍💻 About Me </h2>
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: fit-content;">
-  🔭 Currently building dynamic websites using <b>Node.js</b>, <b>React</b>, and <b>Express</b> while learning advanced <b>Data Structures & Algorithms</b> in <b>Java/C++</b>.
+  🔭 Currently building dynamic websites using <b>MERN Stack</b> while learning advanced <b>Data Structures & Algorithms</b> in <b>Java</b>.
 </p>
 </div>
 
