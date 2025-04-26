@@ -1,7 +1,18 @@
+<p align="center">
+  <!-- Hi I'm Anmol! Typing permanently -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!" alt="Hi I'm Anmol Typing" />
+  </a>
+  
+  <!-- Interests Changing below -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C32D&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Problem+Solver;Passionate+Coder;Open+to+Opportunities" alt="Interests Typing" />
+  </a>
+</p>
+
+
 <div style="font-family: 'Courier New', monospace;">
-  <h1 align="center" style="color: #FF5733; text-shadow: 0 0 8px #FF5733, 0 0 16px #FF5733;">
-    Hi, I'm Anmol!
-  </h1>
   <h2>👨‍💻 About Me </h2>
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: fit-content;">
   🔭 Currently building dynamic websites using <b>MERN Stack</b> while learning advanced <b>Data Structures & Algorithms</b> in <b>Java</b>.
