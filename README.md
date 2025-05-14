@@ -1,16 +1,14 @@
+<h2 align="center">Hi, I'm Anmol 👋</h2>
 <p align="center">
-  <!-- Hi I'm Anmol! Typing permanently -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!;Hi%2C+I'm+Anmol!" alt="Hi I'm Anmol Typing" />
-  </a>
-  
-  <!-- Interests Changing below -->
+<!-- Interests Changing below -->
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C32D&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Problem+Solver;Passionate+Coder;Open+to+Opportunities" alt="Interests Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9b59b6&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Problem+Solver;Passionate+Coder;Open+to+Opportunities" alt="Interests Typing" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXczczZtcmQ1YXI3YTRjM2swdTQzaTZvNzdmMjg4Z3p3Y2FrdTRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Music Animation" width="450"/>
+</p>
 
 <div style="font-family: 'Courier New', monospace;">
   <h2>👨‍💻 About Me </h2>
