@@ -20,7 +20,7 @@
 - 🌱 Currently diving deep into **Data Structures & Algorithms** in **Java**
 - 💻 Focusing on creating full-stack web applications with modern technologies
 - 🌐 Check out my **Portfolio**: [anmoldev.is-a.dev](https://anmoldev.is-a.dev)
-- 🏆 **LeetCode Achiever**: Completed 50 Days Challenge 2024, 50 Days 2025, and 100 Days 2025
+- 🏆 **LeetCode Achiever**: 50 Days (2024 & 2025), 100 Days (2025)
 - 📫 How to reach me: **295anmol@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges and building innovative solutions
 
