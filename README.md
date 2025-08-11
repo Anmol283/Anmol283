@@ -117,6 +117,9 @@
 <a href="https://leetcode.com/Anmol_283/" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Profile" height="100" width="100" />
 </a>
+<a href="https://leetcode.com/Anmol_283/" target="_blank" rel="noopener noreferrer">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Streak Badge" height="100" width="100" />
+</a>
 
 
 </div>
