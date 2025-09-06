@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFuYWpvb2wzZGs2bWk1ZTR6eTB6cmRtOWgzYjF3a29wMXFzaWdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding" width="400"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -114,12 +114,11 @@
 
 <div align="center">
   
-<a href="https://leetcode.com/Anmol_283/" target="_blank">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Profile" height="100" width="100" />
-</a>
-<a href="https://leetcode.com/Anmol_283/" target="_blank" rel="noopener noreferrer">
+
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Streak Badge" height="100" width="100" />
-</a>
+
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" height="100" width="100" />
 
 
 </div>
